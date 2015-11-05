@@ -1,4 +1,4 @@
 1000.times{
-puts 'Hello World'
+ puts 'Hello World'
 }
 
